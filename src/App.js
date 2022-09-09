@@ -9,11 +9,13 @@ import React from 'react';
 // import ReactSemanticUIExample from "./components/ReactSemanticUI/ReactSemanticUIExample";
 // import 'bootstrap/dist/css/bootstrap.min.css';
 // import ReactBootstrapExample from "./components/ReactBootstrap/ReactBootstrapExample";
-import MaterialUiExample from "./components/MaterialUI/MaterialUIExample";
+// import MaterialUiExample from "./components/MaterialUI/MaterialUIExample";
+import Example from "./components/Tailwind/Example";
 
 function App() {
     return (
-        <MaterialUiExample/>
+        <Example/>
+        // <MaterialUiExample/>
         // <ReactBootstrapExample/>
         // <ReactSemanticUIExample/>
         // <OnsenUIExample/>
