@@ -7,12 +7,14 @@ import React from 'react';
 // import AntDesignExample from "./components/AntDesign/AntDesignExample";
 // import 'semantic-ui-css/semantic.min.css'
 // import ReactSemanticUIExample from "./components/ReactSemanticUI/ReactSemanticUIExample";
-import 'bootstrap/dist/css/bootstrap.min.css';
-import ReactBootstrapExample from "./components/ReactBootstrap/ReactBootstrapExample";
+// import 'bootstrap/dist/css/bootstrap.min.css';
+// import ReactBootstrapExample from "./components/ReactBootstrap/ReactBootstrapExample";
+import MaterialUiExample from "./components/MaterialUI/MaterialUIExample";
 
 function App() {
     return (
-        <ReactBootstrapExample/>
+        <MaterialUiExample/>
+        // <ReactBootstrapExample/>
         // <ReactSemanticUIExample/>
         // <OnsenUIExample/>
         // <AntDesignExample/>
